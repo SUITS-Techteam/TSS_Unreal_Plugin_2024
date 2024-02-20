@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TSS_UE5_plugin",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "SUITS_tech_team",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.2.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Plugins": [
+		{
+			"Name": "HttpBlueprint",
+			"Enabled": true
+		}
+	]
+}
