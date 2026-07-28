@@ -22,7 +22,7 @@
 2. Clone the repository...\
 This repository contains the UE5 plugin and an example of how to use it.
 ```
-git clone https://github.com/SUITS-Techteam/TSS_Unreal_Package_2024.git
+git clone https://github.com/SUITS-Techteam/TSS_Unreal_Plugin_2024.git
 ```
 3. Copy the entire `TSS_UE5_plugin` folder into the Plugin folder where you installed the Unreal Engine:
 The Default location for the Plugin Folder is: C:\Program Files\Epic Games\UE_5.2\Engine\Plugins.
